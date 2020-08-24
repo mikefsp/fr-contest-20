@@ -213,6 +213,12 @@ begin
         end;
       end;
 
+      // loop over - Adding data of the last country (Zimbabwe).
+      AddLastDays(Yesterday, 1);
+      AddLastDays(Today, 0);
+      AddRegionalData(Today);
+
+
     finally
       SL.Free;
       tbGlobal.First;

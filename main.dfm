@@ -115,8 +115,8 @@ object frmMain: TfrmMain
       'begin'
       ''
       'end.')
-    Left = 520
-    Top = 216
+    Left = 512
+    Top = 232
     Datasets = <
       item
         DataSet = frdGlobal
@@ -562,8 +562,6 @@ object frmMain: TfrmMain
     end
   end
   object frdGlobal: TfrxDBDataset
-    RangeEnd = reCount
-    RangeEndCount = 200
     UserName = 'frdGlobal'
     CloseDataSource = False
     DataSet = dmMain.tbGlobal

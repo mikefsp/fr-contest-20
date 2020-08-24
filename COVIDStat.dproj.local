@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.159,C:\Projects\FR_CONTEST\data.pas=C:\Projects\FR_CONTEST\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.784,C:\Projects\FR_CONTEST\main.dfm=C:\Users\Michael\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.200,C:\Projects\FR_CONTEST\COVIDStat.dproj=C:\Users\Michael\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.159,C:\Projects\FR_CONTEST\data.dfm=C:\Projects\FR_CONTEST\Unit1.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.861,=C:\Users\Michael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.784,C:\Users\Michael\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projects\FR_CONTEST\main.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.784,C:\Users\Michael\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projects\FR_CONTEST\main.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.159,C:\Projects\FR_CONTEST\Unit1.dfm=C:\Projects\FR_CONTEST\data.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.159,C:\Projects\FR_CONTEST\Unit1.pas=C:\Projects\FR_CONTEST\data.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.930,=C:\Projects\FR_CONTEST\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.200,C:\Users\Michael\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projects\FR_CONTEST\COVIDStat.dproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.898,=C:\Users\Michael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.784,C:\Projects\FR_CONTEST\main.pas=C:\Users\Michael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,=C:\Projects\FR_CONTEST\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
